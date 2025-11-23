@@ -1,0 +1,1 @@
+../../DesignBench/dataset/sysml/samples/24/design.sysml
