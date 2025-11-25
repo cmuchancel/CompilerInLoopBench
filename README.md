@@ -1,7 +1,7 @@
 # SysML Context Package
 
 Contents assembled for the agent:
-- `formal-25-09-05.pdf` — full specification PDF (symlink to root file).
+- `formal-25-09-05.pdf` — full specification PDF.
 - `context_examples/` — curated one-per-grammar pairs (47/47 grammar types).
 - `generation_prompts/` — 104 extra prompts (NL only, real files), each folder contains `nl.txt` for generation.
 
